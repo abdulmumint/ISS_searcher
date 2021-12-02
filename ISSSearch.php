@@ -59,7 +59,7 @@
 ?>
 <html>
 <body>
-	<form action = "/hello.php" name = "helloform">
+	<form action = "/ISSSearch.php" name = "datetimeform">
 	<h3>Enter the date and time of your preference:</h3>
 	<p><i>This will show you the position of the ISS within an hour before and after the time selected.</i></p>
 	<input type="datetime-local" name="answer">
